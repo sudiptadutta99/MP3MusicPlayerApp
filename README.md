@@ -25,10 +25,9 @@ Here is a preview of the Music Player Application:
 ## 🎨 Screenshots
 Here is a preview of the Spotify Clone Web Player:
 ![Mp3 music Player Screenshot]
-(./assets/screenshot1.png)
-(./assets/screenshot2.png)
-(./assets/screenshot3.png)
-
+D:\Java Projects\MP3MusicPlayer\MP3MusicPlayerApp\assets\Screenshot1.png
+D:\Java Projects\MP3MusicPlayer\MP3MusicPlayerApp\assets\Screenshot2.png
+D:\Java Projects\MP3MusicPlayer\MP3MusicPlayerApp\assets\Screenshott3.png
 ## 📝 License
 This project is not licensed. You are free to interpret and modify according to your use.
 
