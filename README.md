@@ -24,7 +24,7 @@ Here is a preview of the Music Player Application:
 
 ## 🎨 Screenshots
 Here is a preview of the MP3 Music Player Player:
-![Mp3 music Player Screenshot](.assets/screenshot1.png)
+![Mp3 music Player Screenshot](.assets/Screenshot1.png)
 ## 📝 License
 This project is not licensed. You are free to interpret and modify according to your use.
 
