@@ -8,7 +8,7 @@ This is a Music Player Application built in Java. It provides a desktop interfac
 📋 Create Playlists: Add songs to playlists and save them for future access.
 📝 Metadata Display: Automatically display song title and artist information from MP3 metadata.
 ## 🚀 Live Demo
-Check out the live demo here: [Mp3 Music Player Application](#) : Live demo link comming soon.
+[ Music Player Application ](#) : Live demo link comming soon.
 
 ## 💻 Technologies Used
 Java: For the application logic and functionality.
@@ -24,10 +24,9 @@ Here is a preview of the Music Player Application:
 
 ## 🎨 Screenshots
 Here is a preview of the Spotify Clone Web Player:
-![Mp3 music Player Screenshot]
-(.assets/Screenshot1.png)
-D:\Java Projects\MP3MusicPlayer\MP3MusicPlayerApp\assets\Screenshot2.png
-D:\Java Projects\MP3MusicPlayer\MP3MusicPlayerApp\assets\Screenshott3.png
+![Mp3 music Player Screenshot](.assets/screenshot1.png) 
+![Mp3 music Player Screenshot](.assets/screenshot2.png)
+![Mp3 music Player Screenshot](.assets/screenshot3.png)
 ## 📝 License
 This project is not licensed. You are free to interpret and modify according to your use.
 
